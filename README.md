@@ -1,2 +1,2 @@
-# swa
+# SWA
 Static Web App
